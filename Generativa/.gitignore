@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (en cualquier parte del proyecto)
+**/.venv/
+**/venv/
+**/ENV/
+**/env/
+
+# Uv lock file (opcional, si no deseas compartirlo)
+# uv.lock
+
+# Distribution / packaging
+**/build/
+**/dist/
+**/*.egg-info/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.sw?
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
