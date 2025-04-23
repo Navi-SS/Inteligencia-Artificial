@@ -1,0 +1,11 @@
+[project]
+name = "agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain-ollama>=0.3.2",
+    "langgraph>=0.3.31",
+    "streamlit>=1.44.1",
+]
